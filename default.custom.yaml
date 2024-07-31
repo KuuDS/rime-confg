@@ -1,0 +1,6 @@
+patch:
+  schema_list:
+    - schema: rime_ice               # 雾凇拼音（全拼）
+  switcher/hotkeys:
+    - Control+Shift+grave
+  ascii_composer/good_old_caps_lock: false

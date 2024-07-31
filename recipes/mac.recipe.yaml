@@ -1,0 +1,10 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: recipes/mac
+  args:
+  description: >-
+    完整安装、更新
+install_files: >-
+  default.custom.yaml
+  squirrel.custom.yaml
